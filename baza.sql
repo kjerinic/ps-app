@@ -81,9 +81,9 @@ CREATE TABLE `korisnik` (
 /*Data for the table `korisnik` */
 
 insert  into `korisnik`(`korisnikID`,`ime`,`prezime`,`korisnickoIme`,`sifra`,`emailKor`) values 
-(1,'Katarina','Jerinic','kjer','11','katarinajerinic8@gmail.com'),
-(2,'Andrijana','Jerinic','ajerinic','22','andrijanajerinic10@gmail.com'),
-(3,'Dusan','Sikora','dsikora','33','dusansikora33@gmail.com'),
+(1,'Katarina','Jerinic','kjer','11','katarinajerinic@gmail.com'),
+(2,'Andrijana','Jerinic','ajerinic','22','andrijanajerinic@gmail.com'),
+(3,'Dusan','Sikora','dsikora','33','dusansikora@gmail.com'),
 (4,'admin','admin','admin','admin','admin@admin.com'),
 (8,'Pavle','Pavlic','pp','pp','p@p.rs');
 
